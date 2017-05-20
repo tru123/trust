@@ -1,0 +1,29 @@
+ ul {margin:0; padding:0; list-style:none; line-height:16px;}
+ li a {color:#636364;}
+
+body{margin:0px; padding:0px; background:url(images/bg.jpg);}
+
+table {border:0px;}
+
+form{margin:0px; padding:0px;}
+
+td, input, textarea{font-size:9px; font-family:arial; color:#636364; line-height:12px; vertical-align:top; text-transform:uppercase; font-weight:bold;}
+
+input, textarea {width:146px; padding:3px 0px 0px 3px; margin:0px;}
+input {height:21px;}
+
+span {color:#0B869F;}
+
+.middle{vertical-align:middle;}
+
+a:hover {text-decoration:none;}
+
+.text{font-size:11px; font-family:Tahoma; color:#444444; line-height:13px; vertical-align:top;}
+
+
+.line {width:100%; background:url(images/line.gif) bottom repeat-x;}
+
+.a1 {color:#0B869F; text-decoration:none;}
+.a1:hover {text-decoration:underline;}
+
+.a2 {color:#636364;}
